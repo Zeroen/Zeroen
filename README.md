@@ -29,7 +29,7 @@ Currently, I'm working as a **Lead Backend Engineer at Thales**, where I lead th
 - ✉️ cristiandhs@gmail.com  
 - 📍 Alicante, Spain  
 - 📱 [+34] 649 777 925  
-- 🌐 [LinkedIn]([https://github.com/Zeroen](https://www.linkedin.com/in/cristian-daniel-hern%C3%A1ndez-sansalvador-03b2815b/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cristian-daniel-hern%C3%A1ndez-sansalvador-03b2815b/)  
 
 ---
 
